@@ -1,0 +1,2 @@
+Observation_Time_UTC,RA[deg],DEC[deg],Observatory,PGW,ZenIni[deg],ZenEnd[deg],Duration[s],Delay[s]
+2016-04-07T23:49:34,46.4062,-37.9217,South,0.0063,65.6723,65.7044,10,59902

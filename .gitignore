@@ -1,0 +1,8 @@
+#templates 
+fits/
+
+#local stuff
+
+no_git/
+*.png
+*.fits

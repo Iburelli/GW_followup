@@ -1,0 +1,7 @@
+input:
+ dir: /home/irene/tesi_GW/fits
+ evid: run0001_ID000023
+ pointings: /home/irene/tesi_GW/scripts/run0001_MergerID000023_cov.txt
+ vis_tab: /home/irene/tesi_GW/prove/vistable.run0001_ID000023.no.Moon.th24.npy
+ caldb: /home/irene/miniconda3/envs/ctools/share/caldb/data/cta/prod3b-v2/bcf
+
